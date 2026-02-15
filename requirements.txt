@@ -1,0 +1,45 @@
+# AI Agentic Framework Dependencies
+
+# Web scraping and HTTP
+aiohttp==3.9.1
+beautifulsoup4==4.12.2
+lxml==5.1.0
+requests==2.31.0
+
+# Data processing
+pandas==2.1.4
+numpy==1.26.2
+
+# YAML configuration
+PyYAML==6.0.1
+
+# Async support
+asyncio==3.4.3
+
+# Logging and monitoring
+colorlog==6.8.0
+
+# NLP and text processing (optional but recommended)
+nltk==3.8.1
+spacy==3.7.2
+
+# Machine Learning (optional for advanced features)
+scikit-learn==1.3.2
+transformers==4.36.2
+torch==2.1.2
+
+# Database support (optional)
+sqlalchemy==2.0.23
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+
+# Code quality
+black==23.12.1
+flake8==6.1.0
+mypy==1.7.1
+
+# Documentation
+sphinx==7.2.6
+sphinx-rtd-theme==2.0.0
